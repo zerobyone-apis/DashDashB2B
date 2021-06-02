@@ -1,4 +1,4 @@
-# bigone
+# doGrowthB2C
 
 ## Project setup
 ```
