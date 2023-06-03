@@ -38,7 +38,7 @@ import { createUserWithEmailAndPassowrd } from '../services/firebaseAuths';
   },
 })
 export default class Home extends Vue {
-  private step = 1;
+  public step = 1;
    
 
   public updateStep(comeStep: number){
